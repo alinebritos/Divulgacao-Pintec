@@ -1,2 +1,2 @@
-# divulga-o-pintec
+# divulgação pintec
 Site de divulgação da Pintec
